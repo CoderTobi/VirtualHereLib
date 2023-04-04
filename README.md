@@ -8,7 +8,7 @@ This is a rather simple library to control the VirtualHere client on Windows usi
 - use a device
 - stop using a device
 - close the application
-- 
+
 ## New Features
 The library currently only features things that I personally needed. If you need a Feature that is currently not available in this library, feel free to suggest it and I might look into it.
 
