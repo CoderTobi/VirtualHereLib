@@ -141,7 +141,7 @@ namespace VirtualHereLib
                 if (buffer[i] == '\n')
                 {
                     result.Add(line);
-                    Console.WriteLine("Received from server: {0}", line);
+                    //Console.WriteLine("Received from server: {0}", line);
                     line = "";
                 }
                 else
