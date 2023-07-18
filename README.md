@@ -14,7 +14,7 @@ The library currently only features things that I personally needed. If you need
 
 ## Example
 The library is pretty simple to use as you can see:
-```
+```C#
 using System;
 using VirtualHereLib;
 
