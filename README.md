@@ -60,7 +60,7 @@ namespace VirtualHereTestApp
             Task.Delay(1500).Wait();
 
             // Close the application
-            // Note: connectToApplication() must be called bevor stop() can be called
+            // Note: connectToApplication() must be called before stop() can be called
             client.stop();
         }
     }
@@ -68,4 +68,4 @@ namespace VirtualHereTestApp
 ```
 
 ## Note
-I am still very new to Git Hub and only do this in my freetime. Also, I am not affiliated with the makers of VirtualHere.
+I am still new to Git Hub and only do this in my freetime. Also, I am not affiliated with the makers of VirtualHere.
